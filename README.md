@@ -30,4 +30,4 @@
 
 
 <p align="right">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikks-13&show_icons=true&Theme=gotham" alt="nikks-13" /></p>
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nikks-13&show_icons=true&Theme=gotham" alt="nikks-13" /></p>
