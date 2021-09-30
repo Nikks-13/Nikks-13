@@ -30,5 +30,4 @@
 
 
 <p align="right">
-**GITHUB STATS**
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikks-13&show_icons=true&Theme=gotham" alt="nikks-13" /></p>
