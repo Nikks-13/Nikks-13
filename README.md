@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/nik_ks1305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nik_ks1305" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhil-kumar-singh-8840aa222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-kumar-singh-8840aa222" height="30" width="40" /></a>
-<a href="https://instagram.com/nik_ks13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nik_ks13" height="30" width="40" /></a>
+<a href="https://instagram.com/nik_k_s13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nik_ks13" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ns5164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ns5164" height="30" width="40" /></a>
 </p>
 
